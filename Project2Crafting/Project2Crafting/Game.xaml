@@ -1,0 +1,60 @@
+﻿<Page x:Class="Project2Crafting.Game"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:Project2Crafting"
+      mc:Ignorable="d" 
+      d:DesignHeight="450" d:DesignWidth="800"
+      Title="Game" Background="Black">
+
+
+    <Grid x:Name="Grid">
+        <Frame x:Name="Movement" Content="" Foreground="{x:Null}" Background="#FF369C33" NavigationUIVisibility="Hidden"/>
+        <Frame x:Name="Workshop" Content="" NavigationUIVisibility="Hidden"/>
+        <Image x:Name="Taurus" Margin="0,5,10,0" Source="/resources/Taurus.png" HorizontalAlignment="Right" Width="208" d:IsHidden="True"/>
+        <Image x:Name="Aesop" Source="/resources/Aesop.png" Margin="66,10,0,10" HorizontalAlignment="Left" Width="270" d:IsHidden="True"/>
+        <Image x:Name="Dullahan" Margin="285,110,263,12" Source="/resources/Dullahan.png"/>
+        <Image x:Name="Gruff" HorizontalAlignment="Left" Height="404" Margin="286,34,0,0" VerticalAlignment="Top" Width="260" Source="/resources/Gruff.png" d:IsHidden="True"/>
+        <TextBlock x:Name="NameBox" Margin="90,0,612,159" TextWrapping="Wrap" Text="TextBlock" Background="Black" Foreground="Red" TextAlignment="Center" Height="21" VerticalAlignment="Bottom" FontFamily="MS Gothic" FontWeight="Bold" FontSize="14" d:IsHidden="True"/>
+        <TextBlock x:Name="SpeechBox" Margin="49,291,38,10" TextWrapping="Wrap" Text="TextBlock" Foreground="Red" Background="Black" FontSize="18" FontFamily="Ink Free" Focusable="True" d:IsHidden="True"/>
+        <TextBox x:Name="PlayerName" HorizontalAlignment="Left" Margin="236,389,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="210" d:IsHidden="True"/>
+        <Button x:Name="CraftButton" Content="Craft" Margin="687,367,21,0" VerticalAlignment="Top" Height="73" FontFamily="MS Gothic" FontWeight="Bold" FontSize="18" BorderBrush="Red" Foreground="Red" Click="CraftButton_Click">
+            <Button.Background>
+                <ImageBrush/>
+            </Button.Background>
+        </Button>
+        <Button x:Name="BuyButton" Content="Buy" Margin="687,367,21,0" VerticalAlignment="Top" Height="73" FontFamily="MS Gothic" FontWeight="Bold" FontSize="18" BorderBrush="Red" Foreground="Red" Click="BuyButton_Click">
+            <Button.Background>
+                <ImageBrush/>
+            </Button.Background>
+        </Button>
+        <Button x:Name="MeetingRoomButton" Content="Go To Meeting Room" HorizontalAlignment="Center" Margin="0,365,0,0" VerticalAlignment="Top" Height="73" Width="228" FontFamily="MS Gothic" FontWeight="Bold" FontSize="18" BorderBrush="Red" Foreground="Red" Click="MeetingRoomButton_Click" d:IsHidden="True">
+            <Button.Background>
+                <ImageBrush/>
+            </Button.Background>
+        </Button>
+        <Button x:Name="HardwareStoreButton" Content="Go To Hardware Store" HorizontalAlignment="Left" Margin="22,367,0,0" VerticalAlignment="Top" Height="73" Width="214" FontFamily="MS Gothic" FontWeight="Bold" FontSize="18" BorderBrush="Red" Foreground="Red" Click="HardwareStoreButton_Click">
+            <Button.Background>
+                <ImageBrush/>
+            </Button.Background>
+        </Button>
+        <Button x:Name="ArtsAndCraftsStoreButton" Content="Go To Arts and Crafts Store" HorizontalAlignment="Left" Margin="241,367,0,0" Width="214" FontFamily="MS Gothic" FontSize="14" BorderBrush="Red" Foreground="Red" Click="ArtsAndCraftsStoreButton_Click" FontWeight="Bold" VerticalContentAlignment="Center" HorizontalContentAlignment="Center" Height="73" VerticalAlignment="Top">
+            <Button.Background>
+                <ImageBrush/>
+            </Button.Background>
+        </Button>
+        <Button x:Name="ThriftStoreButton" Content="Go To Thrift Store" Margin="0,367,126,0" VerticalAlignment="Top" Height="73" FontFamily="MS Gothic" FontWeight="Bold" FontSize="18" BorderBrush="Red" Foreground="Red" Click="ThriftStoreButton_Click" HorizontalAlignment="Right" Width="214">
+            <Button.Background>
+                <ImageBrush/>
+            </Button.Background>
+        </Button>
+        <Button x:Name="InputButton" Content="Enter" HorizontalAlignment="Left" Margin="451,388,0,0" VerticalAlignment="Top" Click="InputButton_Click" d:IsHidden="True"/>
+        <Button x:Name="AdvanceButton" Content="Click to Continue..." Margin="49,291,38,10" Background="{x:Null}" BorderBrush="{x:Null}" Foreground="White" VerticalContentAlignment="Bottom" FontSize="18" FontFamily="Ink Free" FontWeight="Bold" Click="AdvanceButton_Click" d:IsHidden="True"/>
+        <Button x:Name="BackButton" Content="Back" Margin="687,367,21,0" FontFamily="MS Gothic" FontWeight="Bold" FontSize="18" BorderBrush="Red" Foreground="Red" Click="BackButton_Click" Height="73" VerticalAlignment="Top">
+            <Button.Background>
+                <ImageBrush/>
+            </Button.Background>
+        </Button>
+    </Grid>
+</Page>

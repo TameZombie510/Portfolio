@@ -1,0 +1,111 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1" MembersFormat="FullSignature">
+  <Class Name="Project2Crafting.ArtsAndCraftsStore">
+    <Position X="14.75" Y="4.75" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ArtsAndCraftsStore.xaml.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Project2Crafting.Person">
+    <Position X="9.5" Y="1.25" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAEAAAAAAAAAAAAAAAQAiAAAAAAAAAAAAgAAAAA=</HashCode>
+      <FileName>Person.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Project2Crafting.Player">
+    <Position X="9.25" Y="6.75" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Player.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Project2Crafting.Recipe">
+    <Position X="12.75" Y="1.75" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAIAAAAgAAAAAAAAACQAAAAAAEAAAEAgAAAAAAA=</HashCode>
+      <FileName>Recipe.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Project2Crafting.Shops">
+    <Position X="18.75" Y="6.5" Width="3" />
+    <Compartments>
+      <Compartment Name="Nested Types" Collapsed="false" />
+    </Compartments>
+    <NestedTypes>
+      <Enum Name="Project2Crafting.Shops.Shop">
+        <TypeIdentifier>
+          <NewMemberFileName>Shops.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Enum>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Shops.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Project2Crafting.ThriftStore">
+    <Position X="11.75" Y="4.75" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ThriftStore.xaml.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Project2Crafting.Item">
+    <Position X="15" Y="6.25" Width="3.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAgAAAAIAAAAASAAAAAAAAAAAAgAAAAAAA=</HashCode>
+      <FileName>Item.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Project2Crafting.Loader">
+    <Position X="15" Y="8.25" Width="3.25" />
+    <TypeIdentifier>
+      <HashCode>AgAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Loader.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Project2Crafting.MainWindow">
+    <Position X="15.75" Y="2" Width="5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAIIAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>MainWindow.xaml.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Project2Crafting.CraftingInterface">
+    <Position X="11.25" Y="6.25" Width="3.5" />
+    <TypeIdentifier>
+      <HashCode>AAAIIoBAAIAgAAABAAAAIAEAAAAAAAAIACAAAwAAAAA=</HashCode>
+      <FileName>CraftingInterface.xaml.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Project2Crafting.Game">
+    <Position X="4.25" Y="0.5" Width="4.75" />
+    <TypeIdentifier>
+      <HashCode>AEBAQgBgACAAFBAABAOAAEBgIAKAEIgBwACBGCgBACQ=</HashCode>
+      <FileName>Game.xaml.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Project2Crafting.HardwareStore">
+    <Position X="18" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>HardwareStore.xaml.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.266" />
+  </Class>
+  <Enum Name="Project2Crafting.InterfaceMode">
+    <Position X="6.5" Y="9.25" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AAIAAAAACAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Game.xaml.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

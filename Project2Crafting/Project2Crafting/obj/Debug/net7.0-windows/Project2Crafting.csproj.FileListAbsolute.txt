@@ -1,0 +1,146 @@
+C:\Users\Mr. Max\source\repos\Project2Crafting\Project2Crafting\bin\Debug\net7.0-windows\Project2Crafting.exe
+C:\Users\Mr. Max\source\repos\Project2Crafting\Project2Crafting\bin\Debug\net7.0-windows\Project2Crafting.deps.json
+C:\Users\Mr. Max\source\repos\Project2Crafting\Project2Crafting\bin\Debug\net7.0-windows\Project2Crafting.runtimeconfig.json
+C:\Users\Mr. Max\source\repos\Project2Crafting\Project2Crafting\bin\Debug\net7.0-windows\Project2Crafting.dll
+C:\Users\Mr. Max\source\repos\Project2Crafting\Project2Crafting\bin\Debug\net7.0-windows\Project2Crafting.pdb
+C:\Users\Mr. Max\source\repos\Project2Crafting\Project2Crafting\obj\Debug\net7.0-windows\Game.g.cs
+C:\Users\Mr. Max\source\repos\Project2Crafting\Project2Crafting\obj\Debug\net7.0-windows\MainWindow.g.cs
+C:\Users\Mr. Max\source\repos\Project2Crafting\Project2Crafting\obj\Debug\net7.0-windows\App.g.cs
+C:\Users\Mr. Max\source\repos\Project2Crafting\Project2Crafting\obj\Debug\net7.0-windows\Project2Crafting_MarkupCompile.cache
+C:\Users\Mr. Max\source\repos\Project2Crafting\Project2Crafting\obj\Debug\net7.0-windows\Project2Crafting_MarkupCompile.lref
+C:\Users\Mr. Max\source\repos\Project2Crafting\Project2Crafting\obj\Debug\net7.0-windows\Game.baml
+C:\Users\Mr. Max\source\repos\Project2Crafting\Project2Crafting\obj\Debug\net7.0-windows\MainWindow.baml
+C:\Users\Mr. Max\source\repos\Project2Crafting\Project2Crafting\obj\Debug\net7.0-windows\Project2Crafting.g.resources
+C:\Users\Mr. Max\source\repos\Project2Crafting\Project2Crafting\obj\Debug\net7.0-windows\Project2Crafting.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mr. Max\source\repos\Project2Crafting\Project2Crafting\obj\Debug\net7.0-windows\Project2Crafting.AssemblyInfoInputs.cache
+C:\Users\Mr. Max\source\repos\Project2Crafting\Project2Crafting\obj\Debug\net7.0-windows\Project2Crafting.AssemblyInfo.cs
+C:\Users\Mr. Max\source\repos\Project2Crafting\Project2Crafting\obj\Debug\net7.0-windows\Project2Crafting.csproj.CoreCompileInputs.cache
+C:\Users\Mr. Max\source\repos\Project2Crafting\Project2Crafting\obj\Debug\net7.0-windows\Project2Crafting.dll
+C:\Users\Mr. Max\source\repos\Project2Crafting\Project2Crafting\obj\Debug\net7.0-windows\refint\Project2Crafting.dll
+C:\Users\Mr. Max\source\repos\Project2Crafting\Project2Crafting\obj\Debug\net7.0-windows\Project2Crafting.pdb
+C:\Users\Mr. Max\source\repos\Project2Crafting\Project2Crafting\obj\Debug\net7.0-windows\Project2Crafting.genruntimeconfig.cache
+C:\Users\Mr. Max\source\repos\Project2Crafting\Project2Crafting\obj\Debug\net7.0-windows\ref\Project2Crafting.dll
+C:\Users\Mr. Max\source\repos\Project2Crafting\Project2Crafting\obj\Debug\net7.0-windows\CraftingInterface.g.cs
+C:\Users\Mr. Max\source\repos\Project2Crafting\Project2Crafting\obj\Debug\net7.0-windows\CraftingInterface.baml
+C:\Users\Mr. Max\source\repos\Project2Crafting\Project2Crafting\obj\Debug\net7.0-windows\MeetingRoom.g.cs
+C:\Users\Mr. Max\source\repos\Project2Crafting\Project2Crafting\obj\Debug\net7.0-windows\MeetingRoom.baml
+C:\Users\Mr. Max\source\repos\Project2Crafting\Project2Crafting\obj\Debug\net7.0-windows\HardwareStore.g.cs
+C:\Users\Mr. Max\source\repos\Project2Crafting\Project2Crafting\obj\Debug\net7.0-windows\HardwareStore.baml
+C:\Users\Polancic\Downloads\Project2Crafting (2) (1)\Project2Crafting\Project2Crafting\bin\Debug\net7.0-windows\Project2Crafting.exe
+C:\Users\Polancic\Downloads\Project2Crafting (2) (1)\Project2Crafting\Project2Crafting\bin\Debug\net7.0-windows\Project2Crafting.deps.json
+C:\Users\Polancic\Downloads\Project2Crafting (2) (1)\Project2Crafting\Project2Crafting\bin\Debug\net7.0-windows\Project2Crafting.runtimeconfig.json
+C:\Users\Polancic\Downloads\Project2Crafting (2) (1)\Project2Crafting\Project2Crafting\bin\Debug\net7.0-windows\Project2Crafting.dll
+C:\Users\Polancic\Downloads\Project2Crafting (2) (1)\Project2Crafting\Project2Crafting\bin\Debug\net7.0-windows\Project2Crafting.pdb
+C:\Users\Polancic\Downloads\Project2Crafting (2) (1)\Project2Crafting\Project2Crafting\obj\Debug\net7.0-windows\Project2Crafting.csproj.AssemblyReference.cache
+C:\Users\Polancic\Downloads\Project2Crafting (2) (1)\Project2Crafting\Project2Crafting\obj\Debug\net7.0-windows\CraftingInterface.g.cs
+C:\Users\Polancic\Downloads\Project2Crafting (2) (1)\Project2Crafting\Project2Crafting\obj\Debug\net7.0-windows\Game.g.cs
+C:\Users\Polancic\Downloads\Project2Crafting (2) (1)\Project2Crafting\Project2Crafting\obj\Debug\net7.0-windows\HardwareStore.g.cs
+C:\Users\Polancic\Downloads\Project2Crafting (2) (1)\Project2Crafting\Project2Crafting\obj\Debug\net7.0-windows\MainWindow.g.cs
+C:\Users\Polancic\Downloads\Project2Crafting (2) (1)\Project2Crafting\Project2Crafting\obj\Debug\net7.0-windows\MeetingRoom.g.cs
+C:\Users\Polancic\Downloads\Project2Crafting (2) (1)\Project2Crafting\Project2Crafting\obj\Debug\net7.0-windows\App.g.cs
+C:\Users\Polancic\Downloads\Project2Crafting (2) (1)\Project2Crafting\Project2Crafting\obj\Debug\net7.0-windows\Project2Crafting_MarkupCompile.cache
+C:\Users\Polancic\Downloads\Project2Crafting (2) (1)\Project2Crafting\Project2Crafting\obj\Debug\net7.0-windows\Project2Crafting_MarkupCompile.lref
+C:\Users\Polancic\Downloads\Project2Crafting (2) (1)\Project2Crafting\Project2Crafting\obj\Debug\net7.0-windows\CraftingInterface.baml
+C:\Users\Polancic\Downloads\Project2Crafting (2) (1)\Project2Crafting\Project2Crafting\obj\Debug\net7.0-windows\Game.baml
+C:\Users\Polancic\Downloads\Project2Crafting (2) (1)\Project2Crafting\Project2Crafting\obj\Debug\net7.0-windows\HardwareStore.baml
+C:\Users\Polancic\Downloads\Project2Crafting (2) (1)\Project2Crafting\Project2Crafting\obj\Debug\net7.0-windows\MainWindow.baml
+C:\Users\Polancic\Downloads\Project2Crafting (2) (1)\Project2Crafting\Project2Crafting\obj\Debug\net7.0-windows\MeetingRoom.baml
+C:\Users\Polancic\Downloads\Project2Crafting (2) (1)\Project2Crafting\Project2Crafting\obj\Debug\net7.0-windows\Project2Crafting.g.resources
+C:\Users\Polancic\Downloads\Project2Crafting (2) (1)\Project2Crafting\Project2Crafting\obj\Debug\net7.0-windows\Project2Crafting.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Polancic\Downloads\Project2Crafting (2) (1)\Project2Crafting\Project2Crafting\obj\Debug\net7.0-windows\Project2Crafting.AssemblyInfoInputs.cache
+C:\Users\Polancic\Downloads\Project2Crafting (2) (1)\Project2Crafting\Project2Crafting\obj\Debug\net7.0-windows\Project2Crafting.AssemblyInfo.cs
+C:\Users\Polancic\Downloads\Project2Crafting (2) (1)\Project2Crafting\Project2Crafting\obj\Debug\net7.0-windows\Project2Crafting.csproj.CoreCompileInputs.cache
+C:\Users\Polancic\Downloads\Project2Crafting (2) (1)\Project2Crafting\Project2Crafting\obj\Debug\net7.0-windows\Project2Crafting.dll
+C:\Users\Polancic\Downloads\Project2Crafting (2) (1)\Project2Crafting\Project2Crafting\obj\Debug\net7.0-windows\refint\Project2Crafting.dll
+C:\Users\Polancic\Downloads\Project2Crafting (2) (1)\Project2Crafting\Project2Crafting\obj\Debug\net7.0-windows\Project2Crafting.pdb
+C:\Users\Polancic\Downloads\Project2Crafting (2) (1)\Project2Crafting\Project2Crafting\obj\Debug\net7.0-windows\Project2Crafting.genruntimeconfig.cache
+C:\Users\Polancic\Downloads\Project2Crafting (2) (1)\Project2Crafting\Project2Crafting\obj\Debug\net7.0-windows\ref\Project2Crafting.dll
+C:\Users\Mr. Max\Downloads\Project2Crafting 2\Project2Crafting\Project2Crafting\bin\Debug\net7.0-windows\Project2Crafting.exe
+C:\Users\Mr. Max\Downloads\Project2Crafting 2\Project2Crafting\Project2Crafting\bin\Debug\net7.0-windows\Project2Crafting.deps.json
+C:\Users\Mr. Max\Downloads\Project2Crafting 2\Project2Crafting\Project2Crafting\bin\Debug\net7.0-windows\Project2Crafting.runtimeconfig.json
+C:\Users\Mr. Max\Downloads\Project2Crafting 2\Project2Crafting\Project2Crafting\bin\Debug\net7.0-windows\Project2Crafting.dll
+C:\Users\Mr. Max\Downloads\Project2Crafting 2\Project2Crafting\Project2Crafting\bin\Debug\net7.0-windows\Project2Crafting.pdb
+C:\Users\Mr. Max\Downloads\Project2Crafting 2\Project2Crafting\Project2Crafting\obj\Debug\net7.0-windows\CraftingInterface.g.cs
+C:\Users\Mr. Max\Downloads\Project2Crafting 2\Project2Crafting\Project2Crafting\obj\Debug\net7.0-windows\Game.g.cs
+C:\Users\Mr. Max\Downloads\Project2Crafting 2\Project2Crafting\Project2Crafting\obj\Debug\net7.0-windows\HardwareStore.g.cs
+C:\Users\Mr. Max\Downloads\Project2Crafting 2\Project2Crafting\Project2Crafting\obj\Debug\net7.0-windows\MainWindow.g.cs
+C:\Users\Mr. Max\Downloads\Project2Crafting 2\Project2Crafting\Project2Crafting\obj\Debug\net7.0-windows\MeetingRoom.g.cs
+C:\Users\Mr. Max\Downloads\Project2Crafting 2\Project2Crafting\Project2Crafting\obj\Debug\net7.0-windows\App.g.cs
+C:\Users\Mr. Max\Downloads\Project2Crafting 2\Project2Crafting\Project2Crafting\obj\Debug\net7.0-windows\Project2Crafting_MarkupCompile.cache
+C:\Users\Mr. Max\Downloads\Project2Crafting 2\Project2Crafting\Project2Crafting\obj\Debug\net7.0-windows\Project2Crafting_MarkupCompile.lref
+C:\Users\Mr. Max\Downloads\Project2Crafting 2\Project2Crafting\Project2Crafting\obj\Debug\net7.0-windows\CraftingInterface.baml
+C:\Users\Mr. Max\Downloads\Project2Crafting 2\Project2Crafting\Project2Crafting\obj\Debug\net7.0-windows\Game.baml
+C:\Users\Mr. Max\Downloads\Project2Crafting 2\Project2Crafting\Project2Crafting\obj\Debug\net7.0-windows\HardwareStore.baml
+C:\Users\Mr. Max\Downloads\Project2Crafting 2\Project2Crafting\Project2Crafting\obj\Debug\net7.0-windows\MainWindow.baml
+C:\Users\Mr. Max\Downloads\Project2Crafting 2\Project2Crafting\Project2Crafting\obj\Debug\net7.0-windows\MeetingRoom.baml
+C:\Users\Mr. Max\Downloads\Project2Crafting 2\Project2Crafting\Project2Crafting\obj\Debug\net7.0-windows\Project2Crafting.g.resources
+C:\Users\Mr. Max\Downloads\Project2Crafting 2\Project2Crafting\Project2Crafting\obj\Debug\net7.0-windows\Project2Crafting.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mr. Max\Downloads\Project2Crafting 2\Project2Crafting\Project2Crafting\obj\Debug\net7.0-windows\Project2Crafting.AssemblyInfoInputs.cache
+C:\Users\Mr. Max\Downloads\Project2Crafting 2\Project2Crafting\Project2Crafting\obj\Debug\net7.0-windows\Project2Crafting.AssemblyInfo.cs
+C:\Users\Mr. Max\Downloads\Project2Crafting 2\Project2Crafting\Project2Crafting\obj\Debug\net7.0-windows\Project2Crafting.csproj.CoreCompileInputs.cache
+C:\Users\Mr. Max\Downloads\Project2Crafting 2\Project2Crafting\Project2Crafting\obj\Debug\net7.0-windows\Project2Crafting.dll
+C:\Users\Mr. Max\Downloads\Project2Crafting 2\Project2Crafting\Project2Crafting\obj\Debug\net7.0-windows\refint\Project2Crafting.dll
+C:\Users\Mr. Max\Downloads\Project2Crafting 2\Project2Crafting\Project2Crafting\obj\Debug\net7.0-windows\Project2Crafting.pdb
+C:\Users\Mr. Max\Downloads\Project2Crafting 2\Project2Crafting\Project2Crafting\obj\Debug\net7.0-windows\Project2Crafting.genruntimeconfig.cache
+C:\Users\Mr. Max\Downloads\Project2Crafting 2\Project2Crafting\Project2Crafting\obj\Debug\net7.0-windows\ref\Project2Crafting.dll
+C:\Users\Polancic\Downloads\Project2Crafting 3\Project2Crafting\Project2Crafting\bin\Debug\net7.0-windows\Project2Crafting.exe
+C:\Users\Polancic\Downloads\Project2Crafting 3\Project2Crafting\Project2Crafting\bin\Debug\net7.0-windows\Project2Crafting.deps.json
+C:\Users\Polancic\Downloads\Project2Crafting 3\Project2Crafting\Project2Crafting\bin\Debug\net7.0-windows\Project2Crafting.runtimeconfig.json
+C:\Users\Polancic\Downloads\Project2Crafting 3\Project2Crafting\Project2Crafting\bin\Debug\net7.0-windows\Project2Crafting.dll
+C:\Users\Polancic\Downloads\Project2Crafting 3\Project2Crafting\Project2Crafting\bin\Debug\net7.0-windows\Project2Crafting.pdb
+C:\Users\Polancic\Downloads\Project2Crafting 3\Project2Crafting\Project2Crafting\obj\Debug\net7.0-windows\Project2Crafting.csproj.AssemblyReference.cache
+C:\Users\Polancic\Downloads\Project2Crafting 3\Project2Crafting\Project2Crafting\obj\Debug\net7.0-windows\CraftingInterface.g.cs
+C:\Users\Polancic\Downloads\Project2Crafting 3\Project2Crafting\Project2Crafting\obj\Debug\net7.0-windows\Game.g.cs
+C:\Users\Polancic\Downloads\Project2Crafting 3\Project2Crafting\Project2Crafting\obj\Debug\net7.0-windows\HardwareStore.g.cs
+C:\Users\Polancic\Downloads\Project2Crafting 3\Project2Crafting\Project2Crafting\obj\Debug\net7.0-windows\MainWindow.g.cs
+C:\Users\Polancic\Downloads\Project2Crafting 3\Project2Crafting\Project2Crafting\obj\Debug\net7.0-windows\MeetingRoom.g.cs
+C:\Users\Polancic\Downloads\Project2Crafting 3\Project2Crafting\Project2Crafting\obj\Debug\net7.0-windows\App.g.cs
+C:\Users\Polancic\Downloads\Project2Crafting 3\Project2Crafting\Project2Crafting\obj\Debug\net7.0-windows\Project2Crafting_MarkupCompile.cache
+C:\Users\Polancic\Downloads\Project2Crafting 3\Project2Crafting\Project2Crafting\obj\Debug\net7.0-windows\Project2Crafting_MarkupCompile.lref
+C:\Users\Polancic\Downloads\Project2Crafting 3\Project2Crafting\Project2Crafting\obj\Debug\net7.0-windows\CraftingInterface.baml
+C:\Users\Polancic\Downloads\Project2Crafting 3\Project2Crafting\Project2Crafting\obj\Debug\net7.0-windows\Game.baml
+C:\Users\Polancic\Downloads\Project2Crafting 3\Project2Crafting\Project2Crafting\obj\Debug\net7.0-windows\HardwareStore.baml
+C:\Users\Polancic\Downloads\Project2Crafting 3\Project2Crafting\Project2Crafting\obj\Debug\net7.0-windows\MainWindow.baml
+C:\Users\Polancic\Downloads\Project2Crafting 3\Project2Crafting\Project2Crafting\obj\Debug\net7.0-windows\MeetingRoom.baml
+C:\Users\Polancic\Downloads\Project2Crafting 3\Project2Crafting\Project2Crafting\obj\Debug\net7.0-windows\Project2Crafting.g.resources
+C:\Users\Polancic\Downloads\Project2Crafting 3\Project2Crafting\Project2Crafting\obj\Debug\net7.0-windows\Project2Crafting.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Polancic\Downloads\Project2Crafting 3\Project2Crafting\Project2Crafting\obj\Debug\net7.0-windows\Project2Crafting.AssemblyInfoInputs.cache
+C:\Users\Polancic\Downloads\Project2Crafting 3\Project2Crafting\Project2Crafting\obj\Debug\net7.0-windows\Project2Crafting.AssemblyInfo.cs
+C:\Users\Polancic\Downloads\Project2Crafting 3\Project2Crafting\Project2Crafting\obj\Debug\net7.0-windows\Project2Crafting.csproj.CoreCompileInputs.cache
+C:\Users\Polancic\Downloads\Project2Crafting 3\Project2Crafting\Project2Crafting\obj\Debug\net7.0-windows\Project2Crafting.dll
+C:\Users\Polancic\Downloads\Project2Crafting 3\Project2Crafting\Project2Crafting\obj\Debug\net7.0-windows\refint\Project2Crafting.dll
+C:\Users\Polancic\Downloads\Project2Crafting 3\Project2Crafting\Project2Crafting\obj\Debug\net7.0-windows\Project2Crafting.pdb
+C:\Users\Polancic\Downloads\Project2Crafting 3\Project2Crafting\Project2Crafting\obj\Debug\net7.0-windows\Project2Crafting.genruntimeconfig.cache
+C:\Users\Polancic\Downloads\Project2Crafting 3\Project2Crafting\Project2Crafting\obj\Debug\net7.0-windows\ref\Project2Crafting.dll
+C:\Users\Mr. Max\Downloads\Project2Crafting 4\Project2Crafting\Project2Crafting\bin\Debug\net7.0-windows\Project2Crafting.exe
+C:\Users\Mr. Max\Downloads\Project2Crafting 4\Project2Crafting\Project2Crafting\bin\Debug\net7.0-windows\Project2Crafting.deps.json
+C:\Users\Mr. Max\Downloads\Project2Crafting 4\Project2Crafting\Project2Crafting\bin\Debug\net7.0-windows\Project2Crafting.runtimeconfig.json
+C:\Users\Mr. Max\Downloads\Project2Crafting 4\Project2Crafting\Project2Crafting\bin\Debug\net7.0-windows\Project2Crafting.dll
+C:\Users\Mr. Max\Downloads\Project2Crafting 4\Project2Crafting\Project2Crafting\bin\Debug\net7.0-windows\Project2Crafting.pdb
+C:\Users\Mr. Max\Downloads\Project2Crafting 4\Project2Crafting\Project2Crafting\obj\Debug\net7.0-windows\CraftingInterface.g.cs
+C:\Users\Mr. Max\Downloads\Project2Crafting 4\Project2Crafting\Project2Crafting\obj\Debug\net7.0-windows\Game.g.cs
+C:\Users\Mr. Max\Downloads\Project2Crafting 4\Project2Crafting\Project2Crafting\obj\Debug\net7.0-windows\HardwareStore.g.cs
+C:\Users\Mr. Max\Downloads\Project2Crafting 4\Project2Crafting\Project2Crafting\obj\Debug\net7.0-windows\MainWindow.g.cs
+C:\Users\Mr. Max\Downloads\Project2Crafting 4\Project2Crafting\Project2Crafting\obj\Debug\net7.0-windows\MeetingRoom.g.cs
+C:\Users\Mr. Max\Downloads\Project2Crafting 4\Project2Crafting\Project2Crafting\obj\Debug\net7.0-windows\App.g.cs
+C:\Users\Mr. Max\Downloads\Project2Crafting 4\Project2Crafting\Project2Crafting\obj\Debug\net7.0-windows\Project2Crafting_MarkupCompile.cache
+C:\Users\Mr. Max\Downloads\Project2Crafting 4\Project2Crafting\Project2Crafting\obj\Debug\net7.0-windows\Project2Crafting_MarkupCompile.lref
+C:\Users\Mr. Max\Downloads\Project2Crafting 4\Project2Crafting\Project2Crafting\obj\Debug\net7.0-windows\CraftingInterface.baml
+C:\Users\Mr. Max\Downloads\Project2Crafting 4\Project2Crafting\Project2Crafting\obj\Debug\net7.0-windows\Game.baml
+C:\Users\Mr. Max\Downloads\Project2Crafting 4\Project2Crafting\Project2Crafting\obj\Debug\net7.0-windows\HardwareStore.baml
+C:\Users\Mr. Max\Downloads\Project2Crafting 4\Project2Crafting\Project2Crafting\obj\Debug\net7.0-windows\MainWindow.baml
+C:\Users\Mr. Max\Downloads\Project2Crafting 4\Project2Crafting\Project2Crafting\obj\Debug\net7.0-windows\MeetingRoom.baml
+C:\Users\Mr. Max\Downloads\Project2Crafting 4\Project2Crafting\Project2Crafting\obj\Debug\net7.0-windows\Project2Crafting.g.resources
+C:\Users\Mr. Max\Downloads\Project2Crafting 4\Project2Crafting\Project2Crafting\obj\Debug\net7.0-windows\Project2Crafting.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mr. Max\Downloads\Project2Crafting 4\Project2Crafting\Project2Crafting\obj\Debug\net7.0-windows\Project2Crafting.AssemblyInfoInputs.cache
+C:\Users\Mr. Max\Downloads\Project2Crafting 4\Project2Crafting\Project2Crafting\obj\Debug\net7.0-windows\Project2Crafting.AssemblyInfo.cs
+C:\Users\Mr. Max\Downloads\Project2Crafting 4\Project2Crafting\Project2Crafting\obj\Debug\net7.0-windows\Project2Crafting.csproj.CoreCompileInputs.cache
+C:\Users\Mr. Max\Downloads\Project2Crafting 4\Project2Crafting\Project2Crafting\obj\Debug\net7.0-windows\Project2Crafting.dll
+C:\Users\Mr. Max\Downloads\Project2Crafting 4\Project2Crafting\Project2Crafting\obj\Debug\net7.0-windows\refint\Project2Crafting.dll
+C:\Users\Mr. Max\Downloads\Project2Crafting 4\Project2Crafting\Project2Crafting\obj\Debug\net7.0-windows\Project2Crafting.pdb
+C:\Users\Mr. Max\Downloads\Project2Crafting 4\Project2Crafting\Project2Crafting\obj\Debug\net7.0-windows\Project2Crafting.genruntimeconfig.cache
+C:\Users\Mr. Max\Downloads\Project2Crafting 4\Project2Crafting\Project2Crafting\obj\Debug\net7.0-windows\ref\Project2Crafting.dll
+C:\Users\Mr. Max\Downloads\Project2Crafting 4\Project2Crafting\Project2Crafting\obj\Debug\net7.0-windows\ArtsAndCraftsStore.g.cs
+C:\Users\Mr. Max\Downloads\Project2Crafting 4\Project2Crafting\Project2Crafting\obj\Debug\net7.0-windows\ArtsAndCraftsStore.baml
+C:\Users\Mr. Max\Downloads\Project2Crafting 4\Project2Crafting\Project2Crafting\obj\Debug\net7.0-windows\ThriftStore.g.cs
+C:\Users\Mr. Max\Downloads\Project2Crafting 4\Project2Crafting\Project2Crafting\obj\Debug\net7.0-windows\ThriftStore.baml

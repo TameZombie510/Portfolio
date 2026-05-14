@@ -1,0 +1,14 @@
+﻿<Window x:Class="Project2Crafting.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Project2Crafting"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <Frame x:Name="TitleFrame" Content="" NavigationUIVisibility="Hidden"/>
+        <Button x:Name="BeginButton" Content="Begin" HorizontalAlignment="Center" Margin="0,292,0,0" VerticalAlignment="Top" Height="35" Width="148" Background="{x:Null}" FontFamily="Yu Gothic" FontSize="22" VerticalContentAlignment="Center" HorizontalContentAlignment="Center" Click="BeginButton_Click"/>
+
+    </Grid>
+</Window>

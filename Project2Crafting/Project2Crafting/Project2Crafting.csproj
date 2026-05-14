@@ -1,0 +1,49 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net7.0-windows</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <UseWPF>true</UseWPF>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="resources\Aesop.png" />
+    <None Remove="resources\Creative-Reuse-Shop-Ash-Andrews.jpg" />
+    <None Remove="resources\Dullahan.png" />
+    <None Remove="resources\Gruff.png" />
+    <None Remove="resources\istockphoto-1163075650-612x612.jpg" />
+    <None Remove="resources\Taurus.png" />
+    <None Remove="resources\thriftstore.jpeg" />
+    <None Remove="resources\Tupelo-TupeloHardware02 %281%29.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Resource Include="resources\Aesop.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="resources\Creative-Reuse-Shop-Ash-Andrews.jpg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="resources\Dullahan.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="resources\Gruff.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="resources\istockphoto-1163075650-612x612.jpg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="resources\Taurus.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="resources\thriftstore.jpeg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="resources\Tupelo-TupeloHardware02 (1).png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Resource>
+  </ItemGroup>
+
+</Project>

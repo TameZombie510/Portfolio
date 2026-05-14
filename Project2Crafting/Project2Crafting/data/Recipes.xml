@@ -1,0 +1,32 @@
+<recipes>
+<recipe Name="Bottle of Blood" Description="We all need to contribute...even if it's just a drop of blood." YieldAmount="1" Value="3.25" YieldType="bottle(s)">
+<item Name="Small Bottle" Value="0.25" Amount="1" AmountType="${Name.ToLower()}(s)"></item> 
+<item Name="Knife" Value="3.00" Amount="1" AmountType="${Name.ToLower()}(s)"></item> 
+</recipe>
+
+<recipe Name="Summoning Circle" Description="Every good ritual needs a good summoning circle!" YieldAmount="1" Value="2.50" YieldType="${Name.ToLower()}(s)">
+<item Name="Red Chalk" Value="2.50" Amount="1" AmountType="piece(s)"></item>
+<item Name="Bottle of Blood" Value="0" Amount="1" AmountType="bottle(s)"></item>
+</recipe>
+
+<recipe Name="Summoning Candle" Description="Blood-infused candles? Well, that's creepy..." YieldAmount="1" Value="" YieldType="${Name.ToLower()}(s)">
+<item Name="Black Wax" Value="2.15" Amount="1" AmountType="block(s)"></item>
+<item Name="Bottle of Blood" Value="0" Amount="1" AmountType="bottle(s)"></item>
+</recipe>
+
+<recipe Name="Crucifix" Description="Perfect for sacrifice and summoning!" YieldAmount="1" Value="0" YieldType="${Name.ToLower()}(s)">
+<item Name="Medium Wooden Plank" Value="5.00" Amount="1" AmountType="${Name.ToLower()}(s)"></item>
+<item Name="Large Wooden Plank" Value="7.00" Amount="1" AmountType="${Name.ToLower()}(s)"></item>
+</recipe>
+
+<recipe Name="Podium" Description="..." YieldAmount="1" Value="0" YieldType="{Name.ToLower()}(s)">
+<item Name="Easter Bunny Costume" Value="10.00" Amount="1" AmountType="${Name.ToLower()}(s)"></item>
+<item Name="Crucifix" Value="0" Amount="1" AmountType="${Name.ToLower()}(s)"></item>
+</recipe>
+
+<recipe Name="Ritual Circle" Description="BEGINTHERITUALBEGINTHERITUALBEGINTHERITUAL" YieldAmount="1" Value="0" YieldType=" ${Name.ToLower()}(s)">
+<item Name="Summoning Circle" Value="0" Amount="1" AmountType="${Name.ToLower()}(s)"></item>
+<item Name="Podium" Value="0" Amount="1" AmountType="${Name.ToLower()}(s)"></item>
+<item Name="Summoning Candle" Value="0" Amount="5" AmountType="${Name.ToLower()}(s)"></item>
+</recipe>
+</recipes>

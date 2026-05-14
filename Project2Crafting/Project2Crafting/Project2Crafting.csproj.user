@@ -1,0 +1,52 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup />
+  <ItemGroup>
+    <ApplicationDefinition Update="App.xaml">
+      <SubType>Designer</SubType>
+    </ApplicationDefinition>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Update="ArtsAndCraftsStore.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="CraftingInterface.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Game.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="HardwareStore.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="MeetingRoom.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="ThriftStore.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <Page Update="ArtsAndCraftsStore.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="CraftingInterface.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Game.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="HardwareStore.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="MainWindow.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="MeetingRoom.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="ThriftStore.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+  </ItemGroup>
+</Project>
